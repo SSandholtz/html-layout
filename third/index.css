@@ -1,0 +1,48 @@
+body {
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+header {
+    height: 100px;
+    widows: 100%;
+    background-color: grey;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.small-blue-box {
+    margin: 0 0 0 25px;
+    height: 80px;
+    width: 80px;
+    background-color: lightblue;
+}
+
+.white-box {
+    height: 200px;
+    width: 100%;
+    padding: 50px 20px;
+}
+
+.blue-box {
+    height: 100px;
+    width: 100%;
+    background-color: lightblue;
+}
+.teal-box {
+    height: 100px;
+    width: 100%;
+    background-color: teal;
+}
+.green-box {
+    height: 100px;
+    width: 100%;
+    background-color: lightgreen;
+}
+.yellow-box {
+    height: 100px;
+    width: 100%;
+    background-color: yellow;
+}
+
